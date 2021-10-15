@@ -1,0 +1,5 @@
+/home/joaosantosdev/IdeaProjects/ecommerce/commons/src/main/java/br/com/ourmind/ecommerce/commons/services/ConsumerFunction.java
+/home/joaosantosdev/IdeaProjects/ecommerce/commons/src/main/java/br/com/ourmind/ecommerce/commons/deserializers/GsonDeserializer.java
+/home/joaosantosdev/IdeaProjects/ecommerce/commons/src/main/java/br/com/ourmind/ecommerce/commons/serializers/GsonSerializer.java
+/home/joaosantosdev/IdeaProjects/ecommerce/commons/src/main/java/br/com/ourmind/ecommerce/commons/services/KafkaConsumerService.java
+/home/joaosantosdev/IdeaProjects/ecommerce/commons/src/main/java/br/com/ourmind/ecommerce/commons/services/KafkaProducerService.java
